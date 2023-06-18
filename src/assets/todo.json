@@ -1,0 +1,17 @@
+[
+    {
+        "Status": true,
+        "Thing": "First Thing",
+        "Editing": false
+    },
+    {
+        "Status": false,
+        "Thing": "Second Thing",
+        "Editing": false
+    },
+    {
+        "Status": false,
+        "Thing": "Third Thing",
+        "Editing": false
+    }
+]
